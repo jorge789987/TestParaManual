@@ -7,5 +7,6 @@ public class pruebaEntornos {
 	public void metodo2(){}
 	
 	public void metodo3(){}
+	public void añadidoPrueba(){}
 
 }
