@@ -14,7 +14,14 @@ public class programita {
 		System.out.println("Test para otro commit");
 	}
 	
-	public void metodo3(){}
+	public void metodo3(){
+		
+		for (int i=0; i<100 ; i++){
+			System.out.println(i);
+			
+		}
+		
+	}
 	
 	public void metodo4(){}
 
