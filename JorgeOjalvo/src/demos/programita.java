@@ -23,6 +23,9 @@ public class programita {
 		
 	}
 	
-	public void metodo4(){}
+	public void metodo4(){
+		
+		System.out.println("Codigo de la Master, se añadira el texto de SegundaRama.");
+	}
 
 }
