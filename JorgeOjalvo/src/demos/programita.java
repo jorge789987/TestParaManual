@@ -20,6 +20,6 @@ public class programita {
 		
 	}
 	
-	public void metodo4(){}
+	public void metodo40(){}
 
 }
